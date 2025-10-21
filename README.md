@@ -1,5 +1,7 @@
 # SpiderRobot
 
+SLDT + STL files
+
 
 Quadruped Spider Robot controlled by
 
